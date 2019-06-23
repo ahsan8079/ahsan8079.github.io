@@ -5,9 +5,14 @@ body {
 .heading {
   font-family: 'Montserrat', sans-serif;
   font-size: 50px;
+  color: #182825;
 }
 
 p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
+  font-size: 25px;
+}
+
+hr {
+  color: #016fb9;
 }
